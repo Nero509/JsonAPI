@@ -1,0 +1,111 @@
+{
+  "status": 1,
+  "data": [
+    {
+      "student_id": "101",
+      "primary_display": "Student: Aman Gupta",
+      "details": [
+        {
+          "label": "Full Name",
+          "value": "Aman Gupta"
+        },
+        {
+          "label": "Father's Name",
+          "value": "Rakesh Gupta"
+        },
+        {
+          "label": "Class",
+          "value": "XII"
+        },
+        {
+          "label": "Section",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "student_id": "102",
+      "primary_display": "Student: Priya Singh",
+      "details": [
+        {
+          "label": "Full Name",
+          "value": "Priya Singh"
+        },
+        {
+          "label": "Father's Name",
+          "value": "Suresh Singh"
+        },
+        {
+          "label": "Class",
+          "value": "XII"
+        },
+        {
+          "label": "Section",
+          "value": "A"
+        },
+        {
+          "label": "Phone",
+          "value": "9876543210"
+        },
+        {
+          "label": "Email",
+          "value": "priya@example.com"
+        }
+      ]
+    },
+    {
+      "student_id": "103",
+      "primary_display": "Student: Rahul Verma",
+      "details": [
+        {
+          "label": "Full Name",
+          "value": "Rahul Verma"
+        },
+        {
+          "label": "Class",
+          "value": "XII"
+        }
+      ]
+    },
+    {
+      "student_id": "104",
+      "primary_display": "Student: Neha Sharma",
+      "details": [
+        {
+          "label": "Full Name",
+          "value": "Neha Sharma"
+        },
+        {
+          "label": "Father's Name",
+          "value": "Amit Sharma"
+        },
+        {
+          "label": "Mother's Name",
+          "value": "Anamika Sharma"
+        },
+        {
+          "label": "Address",
+          "value": "Jalvayu Vihar Extension 201330 Noida UP"
+        },
+        {
+          "label": "Class",
+          "value": "XII"
+        },
+        {
+          "label": "Section",
+          "value": "A"
+        },
+        {
+          "label": "Phone",
+          "value": "9875783210"
+        },
+        {
+          "label": "Email",
+          "value": "neha@example.com"
+        }
+      ]
+    }
+  ],
+  "message": "Request Success",
+  "return_code": 100
+}

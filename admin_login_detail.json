@@ -1,0 +1,9 @@
+{
+  "id": "ADM001",
+  "login_id": "admin",
+  "name": "School Administrator",
+  "photo": "admin.jpg",
+  "mobile_number": "9876545678",
+  "school_id": "SCH001",
+  "academic_session": "2026-2027"
+}

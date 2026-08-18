@@ -1,0 +1,25 @@
+{
+  "status": 1,
+  "return_code": 100,
+  "message": "Request Success",
+  "data": {
+    "student_id": "STU10001",
+    "admission_number": "ADM2026001",
+    "name": "Raman Kumar",
+    "class": "10",
+    "section": "A",
+    "mobile_number": "9876543210",
+    "father_name": "Rajesh Kumar",
+    "mother_name": "Sunaina Kumari",
+    "date_of_birth": "2010-05-15",
+    "roll_number": "25",
+    "gender": "Male",
+    "address": "Lucknow, Uttar Pradesh",
+    "academic_session": "2026-2027",
+    "photo": "student.jpg",
+    "email": "raman@example.com",
+    "caste": "General",
+    "religion": "Hindu",
+    "medium": "English"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "status": 1,
+  "return_code": 100,
+  "message": "Request Success",
+  "data": {
+    "employee_id": "TCH10001",
+    "department": "Mathematics",
+    "designation": "Senior Teacher",
+    "salary": 45000,
+    "shift": "Morning",
+    "medium": "English",
+    "gender": "Male",
+    "experience": 8,
+    "joining_date": "2018-04-10",
+    "name": "Amit Sharma",
+    "date_of_birth": "1988-08-20",
+    "father_name": "Ramesh Sharma",
+    "mother_name": "Kavita Sharma",
+    "father_occupation": "Business",
+    "qualification": "M.Sc Mathematics, B.Ed",
+    "email": "amit.sharma@example.com",
+    "mobile_number": "9876501234",
+    "address": "Lucknow, Uttar Pradesh",
+    "photo": "teacher.jpg",
+    "academic_session": "2026-2027"
+  }
+}

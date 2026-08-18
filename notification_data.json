@@ -1,0 +1,77 @@
+{
+  "status": 1,
+  "return_code": 100,
+  "message": "Request Success",
+  "data": [
+    {
+      "notification_id": "NOT001",
+      "date": "Wed, 05 Nov",
+      "title": "Exam Schedule Published",
+      "message": "The schedule for the 5th Semester final exams is now available.",
+      "type": "Exams"
+    },
+    {
+      "notification_id": "NOT002",
+      "date": "Fri, 07 Nov",
+      "title": "Fee Payment Due",
+      "message": "Your tuition fee payment is due by 15th Nov. Pay now to avoid a late fine.",
+      "type": "Fees"
+    },
+    {
+      "notification_id": "NOT003",
+      "date": "Mon, 10 Nov",
+      "title": "Admit Card Available",
+      "message": "Your admit card for the upcoming Mid-Term exams is ready for download.",
+      "type": "Admit Card"
+    },
+    {
+      "notification_id": "NOT004",
+      "date": "Tue, 11 Nov",
+      "title": "Guest Lecture on AI",
+      "message": "A special guest lecture on 'The Future of AI' is scheduled for Nov 18th.",
+      "type": "Events"
+    },
+    {
+      "notification_id": "NOT005",
+      "date": "Thu, 13 Nov",
+      "title": "Assignment Deadline",
+      "message": "Submission for the Physics (PH-101) assignment is tomorrow.",
+      "type": "Assignments"
+    },
+    {
+      "notification_id": "NOT006",
+      "date": "Fri, 14 Nov",
+      "title": "Results Declared",
+      "message": "Results for the 4th Semester have been published on the student portal.",
+      "type": "Results"
+    },
+    {
+      "notification_id": "NOT007",
+      "date": "Mon, 17 Nov",
+      "title": "Library Book Overdue",
+      "message": "The book 'Introduction to Algorithms' is 3 days overdue. Please return it soon.",
+      "type": "Library"
+    },
+    {
+      "notification_id": "NOT008",
+      "date": "Tue, 18 Nov",
+      "title": "Holiday Notice",
+      "message": "The college will remain closed on Nov 20th on account of a national holiday.",
+      "type": "Notice"
+    },
+    {
+      "notification_id": "NOT009",
+      "date": "Wed, 19 Nov",
+      "title": "Class Rescheduled",
+      "message": "Tomorrow's 10:00 AM Chemistry class has been rescheduled to 2:00 PM.",
+      "type": "Classes"
+    },
+    {
+      "notification_id": "NOT010",
+      "date": "Thu, 20 Nov",
+      "title": "Low Attendance Warning",
+      "message": "Your attendance in Mathematics (MA-102) is below 75%.",
+      "type": "Attendance"
+    }
+  ]
+}

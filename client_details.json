@@ -1,0 +1,11 @@
+{
+  "status": 1,
+  "return_code": 100,
+  "message": "Request Success",
+  "data": {
+    "id": "SCD003",
+    "name": "PCF Public School",
+    "logo": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/school_logo.jpg",
+    "academic_session": ["2026-2027", "2025-2026", "2024-2025", "2023-2024"]
+  }
+}

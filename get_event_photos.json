@@ -1,0 +1,21 @@
+{
+  "status": 1,
+  "return_code": 100,
+  "message": "Request Success",
+  "data": [
+    {
+      "photo_id": "img_5001",
+      "event_id": "evt_001",
+      "file_name": "IMG_1234.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/photo/thumb_1.jpg",
+      "full_image_url": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/photo/img_1.jpg"
+    },
+    {
+      "photo_id": "img_5002",
+      "event_id": "evt_001",
+      "file_name": "IMG_1235.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/photo/thumb_2.jpg",
+      "full_image_url": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/photo/img_2.jpg"
+    }
+  ]
+}

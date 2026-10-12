@@ -1,0 +1,28 @@
+{
+  "status": 1,
+  "return_code": 100,
+  "message": "Request Success",
+  "data": [
+    {
+      "event_id": "evt_001",
+      "event_title": "Annual Sports Meet 2026",
+      "event_date": "2026-11-10",
+      "photo_count": 45,
+      "cover_image_url": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/photo/sports_cover.jpg"
+    },
+    {
+      "event_id": "evt_002",
+      "event_title": "Inter-School Science Exhibition",
+      "event_date": "2026-11-18",
+      "photo_count": 28,
+      "cover_image_url": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/photo/science_cover.jpg"
+    },
+    {
+      "event_id": "evt_003",
+      "event_title": "Independence Day Celebration",
+      "event_date": "2026-08-15",
+      "photo_count": 112,
+      "cover_image_url": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/photo/ind_day_cover.jpg"
+    }
+  ]
+}

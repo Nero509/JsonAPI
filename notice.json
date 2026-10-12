@@ -1,0 +1,84 @@
+{
+  "status": 1,
+  "return_code": 100,
+  "message": "Request Success",
+  "data": [
+    {
+      "document_id": "notice_8001",
+      "title": "Mid-Term Examination Schedule - Fall 2025",
+      "display_date": "2025-10-28",
+      "upload_timestamp": "2025-10-28T09:00:00Z",
+      "category": "Exams",
+      "description": "The detailed schedule for the upcoming Mid-Term examinations for all semesters has been released. Please find the attached document for branch-wise details.",
+      "full_image_url": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/photo/img_1.jpg",
+      "file_name": "Mid_Term_Schedule_Fall_2025.pdf",
+      "issued_by": "Controller of Examinations"
+    },
+    {
+      "document_id": "notice_8002",
+      "title": "Declaration of Winter Vacation",
+      "display_date": "2025-11-03",
+      "upload_timestamp": "2025-11-03T10:15:00Z",
+      "category": "Holidays",
+      "description": "This is to inform all students that the college will remain closed for the winter vacation from Dec 24, 2025, to Jan 02, 2026. Classes will resume on Jan 03, 2026.",
+      "full_image_url": "",
+      "file_name": "",
+      "issued_by": "Principal Office"
+    },
+    {
+      "document_id": "notice_8003",
+      "title": "Annual Sports Meet 2026 Registration",
+      "display_date": "2025-11-10",
+      "upload_timestamp": "2025-11-10T14:30:00Z",
+      "category": "Sports",
+      "description": "Registrations for the Annual Sports Meet are now open. Interested students must submit their names to their respective class teachers by November 20th.",
+      "full_image_url": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/photo/img_2.jpg",
+      "file_name": "sports_meet_form.jpg",
+      "issued_by": "Sports Department"
+    },
+    {
+      "document_id": "notice_8004",
+      "title": "Library Book Return Deadline",
+      "display_date": "2025-11-15",
+      "upload_timestamp": "2025-11-15T08:45:00Z",
+      "category": "Academic",
+      "description": "All students are requested to clear their library dues and return borrowed books before the commencement of the mid-term exams to avoid late fines.",
+      "full_image_url": "",
+      "file_name": "",
+      "issued_by": "Chief Librarian"
+    },
+    {
+      "document_id": "notice_8005",
+      "title": "Inter-School Science Exhibition",
+      "display_date": "2025-11-18",
+      "upload_timestamp": "2025-11-18T11:00:00Z",
+      "category": "Events",
+      "description": "The school is hosting the regional Science Exhibition this Saturday. Students participating must set up their models in the main auditorium by 8:00 AM.",
+      "full_image_url": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/photo/science_exhibition_guidelines.pdf",
+      "file_name": "science_exhibition_guidelines.pdf",
+      "issued_by": "Science Faculty"
+    },
+    {
+      "document_id": "notice_8006",
+      "title": "Transport Fee Revision Update",
+      "display_date": "2025-11-22",
+      "upload_timestamp": "2025-11-22T16:20:00Z",
+      "category": "Transport",
+      "description": "Due to changes in fuel prices, the monthly transport fee for Routes 4 through 9 will be revised starting next quarter. Please review the attached notice.",
+      "full_image_url": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/photo/transport_fee_update.jpg",
+      "file_name": "transport_fee_update.jpg",
+      "issued_by": "Transport Head"
+    },
+    {
+      "document_id": "notice_8007",
+      "title": "Parents-Teachers Meeting (Class 10)",
+      "display_date": "2025-11-25",
+      "upload_timestamp": "2025-11-25T09:15:00Z",
+      "category": "Meetings",
+      "description": "A mandatory PTM for Class 10 students will be held to discuss mid-term performance. Time slots have been assigned in the attached document.",
+      "full_image_url": "https://raw.githubusercontent.com/Nero509/JsonAPI/refs/heads/main/photo/ptm_slots_class10.pdf",
+      "file_name": "ptm_slots_class10.pdf",
+      "issued_by": "Admin Office"
+    }
+  ]
+}
